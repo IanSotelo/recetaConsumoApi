@@ -1,0 +1,1 @@
+const apiUrl = "https://github.com/raywenderlich/recipes/blob/master/Recipes.json";
